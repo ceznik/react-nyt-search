@@ -1,0 +1,26 @@
+{
+  "name": "react-nyt-search",
+  "version": "1.0.0",
+  "description": "An app that displays New York Times search results built with React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceznik/react-nyt-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceznik/react-nyt-search/issues"
+  },
+  "homepage": "https://github.com/ceznik/react-nyt-search#readme",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "babel-preset-react": "^6.5.0",
+    "history": "^3.0.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
